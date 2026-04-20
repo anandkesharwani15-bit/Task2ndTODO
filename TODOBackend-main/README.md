@@ -51,3 +51,5 @@ npm start
 * Postman collection included
 * Clean folder structure
 * Secure JWT handling
+
+* 
